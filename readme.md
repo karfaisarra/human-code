@@ -8,7 +8,7 @@ Scansione documento su più fogli fronte/retro
 - Creo la cartella per i file
 - Prendo la pratica 
 - Apro la pratica 
-​    - Se ho fogli da scanzionnare
+​    -Se ho fogli da scanzionnare
         - Prendo un foglio da scansionare
         - Apro lo scanner
         - Inserisco il foglio
